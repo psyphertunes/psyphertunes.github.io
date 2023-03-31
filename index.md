@@ -3,23 +3,41 @@
     <meta charset="utf-8">
     <title>Psyphertunes</title>
     <style>
+      /* Add some style to the page */
+      body {
+        font-family: 'Helvetica Neue', sans-serif;
+        color: #333;
+        margin: 0;
+        padding: 0;
+      }
+      
+      /* Add a gradient background */
+      body {
+        background: linear-gradient(45deg, #c0392b, #2980b9);
+      }
+      
+      /* Add a subtle texture to the container */
       .container {
         max-width: 800px;
         margin: 0 auto;
         padding: 20px;
-        background-color: #fff;
-        font-family: 'Helvetica Neue', sans-serif;
-        color: #333;
+        background: #fff url("https://i.imgur.com/mbLTys5.png") repeat;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+        overflow: hidden;
       }
       
+      /* Add some style to the header */
       .header {
         text-align: center;
         margin-bottom: 40px;
       }
       
       .header h1 {
-        font-size: 48px;
+        font-size: 60px;
+        font-weight: bold;
         margin-bottom: 10px;
+        text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2);
       }
       
       .header p {
@@ -27,9 +45,23 @@
         margin-bottom: 0;
       }
       
+      /* Add some style to the content */
+      .content {
+        background: #fff;
+        padding: 40px;
+        margin-bottom: 40px;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+      }
+      
       .content h2 {
         font-size: 36px;
         margin-bottom: 20px;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        color: #c0392b;
+        text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2);
       }
       
       .content p {
@@ -49,18 +81,27 @@
         margin-bottom: 10px;
       }
       
-      .footer {
-        text-align: center;
-        font-size: 14px;
-        margin-top: 40px;
-      }
-      
+      /* Add some style to the image */
       .image-container {
         text-align: center;
+        margin-bottom: 40px;
       }
       
       img {
         max-width: 100%;
+        border-radius: 5px;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+      }
+      
+      /* Add some style to the footer */
+      .footer {
+        text-align: center;
+        font-size: 14px;
+        color: #fff;
+      }
+      
+      .footer p {
+        margin-bottom: 0;
       }
     </style>
   </head>
