@@ -124,8 +124,7 @@
           <li><a href="https://www.blender.org/">Blender</a></li>
           <li><a href="https://unity.com/">Unity</a></li>
           <li><a href="https://www.python.org/">Python</a></li>
-          <li><a href="https://pycat.dev/">PyCat</a></li>
-        </div>
+         
       
       <div class="image-container">
         <img src="https://user-images.githubusercontent.com/91813244/229108689-f013a53c-3f76-4318-a7e3-a8cb9c6665f5.PNG" alt="Image description">
@@ -134,6 +133,4 @@
       <div class="footer">
         <p>&copy; 2023 Psyphertunes. All rights reserved.</p>
       </div>
-    </div>
-  </body>
-</html>
+  
