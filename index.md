@@ -120,8 +120,12 @@
           <li><strong>Blender:</strong> We use Blender to create stunning 3D models and environments for our games. With its powerful features and intuitive interface, Blender helps us bring our artistic visions to life.</li>
           <li><strong>Unity:</strong> Unity is our go-to game engine for creating interactive gameplay experiences. Its cross-platform capabilities and extensive library of assets make it an essential tool for our development process.</li>
           <li><strong>Python:</strong> We use Python to build custom tools and scripts that help us streamline our workflow and improve productivity.</li>
-        </ul>
-      </div>
+       
+          <li><a href="https://www.blender.org/">Blender</a></li>
+          <li><a href="https://unity.com/">Unity</a></li>
+          <li><a href="https://www.python.org/">Python</a></li>
+          <li><a href="https://pycat.dev/">PyCat</a></li>
+        </div>
       
       <div class="image-container">
         <img src="https://user-images.githubusercontent.com/91813244/229108689-f013a53c-3f76-4318-a7e3-a8cb9c6665f5.PNG" alt="Image description">
