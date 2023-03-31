@@ -1,5 +1,3 @@
-<img width="539" alt="screenshot" src="https://user-images.githubusercontent.com/91813244/229108689-f013a53c-3f76-4318-a7e3-a8cb9c6665f5.PNG">
-
 <html>
   <head>
     <meta charset="utf-8">
@@ -56,6 +54,14 @@
         font-size: 14px;
         margin-top: 40px;
       }
+      
+      .image-container {
+        text-align: center;
+      }
+      
+      img {
+        max-width: 100%;
+      }
     </style>
   </head>
   <body>
@@ -73,6 +79,10 @@
           <li><strong>Unity:</strong> Unity is our go-to game engine for creating interactive gameplay experiences. Its cross-platform capabilities and extensive library of assets make it an essential tool for our development process.</li>
           <li><strong>Python:</strong> We use Python to build custom tools and scripts that help us streamline our workflow and improve productivity.</li>
         </ul>
+      </div>
+      
+      <div class="image-container">
+        <img src="https://user-images.githubusercontent.com/91813244/229108689-f013a53c-3f76-4318-a7e3-a8cb9c6665f5.PNG" alt="Image description">
       </div>
     
       <div class="footer">
