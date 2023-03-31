@@ -21,12 +21,13 @@
         max-width: 800px;
         margin: 0 auto;
         padding: 20px;
-        background: #fff url("https://i.imgur.com/mbLTys5.png") repeat;
+        background: #fff url("[https://i.imgur.com/mbLTys5.png](https://user-images.githubusercontent.com/91813244/229112076-87ac4215-c8e3-4a28-ad92-b813e6f133f4.jpg)") repeat;
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
         border-radius: 5px;
         overflow: hidden;
       }
       
+
       /* Add some style to the header */
       .header {
         text-align: center;
